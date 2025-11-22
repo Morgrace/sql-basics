@@ -1,0 +1,9 @@
+
+DATA DEFINITION LANGUAGE;
+1. Create, Alter Drop;
+
+DATA MANIPULATION LANGUAGE
+1. Insert, Update, Delete
+
+DATA QUERY LANGUAGE
+Select
